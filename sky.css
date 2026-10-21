@@ -748,7 +748,7 @@ html.visual body {
 
   background: var(--additional);
 
-  color: var(--noir);
+  color: #ffffff;
 
 }
 .viz-after-cover p {
